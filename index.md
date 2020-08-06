@@ -12,14 +12,14 @@ This is a guide on how to turn basically any ebook into an audiobook that doesn'
 -- https://www.amazon.com/mn/dcw/myx.html/ref=kinw_myk_redirect#/home/content/booksAll/dateDsc/
 -- Click the **...** to get this menu.
 -- Then select **Download & transfer via USB**
--- <image>
+-- ![image](https://raw.githubusercontent.com/vox-arcana/book2audio/gh-pages/2020-05-03_18_21_41-Amazon.com__Manage_Your_Content_and_Devices.png)
 
 4. Then you get a dropdown where you'll only be able to export to devices or kindle apps that are considered active. 
 -- **This matters because the DRM encoding is based on the intended device.**
--- <image>
+-- ![image](https://raw.githubusercontent.com/vox-arcana/book2audio/gh-pages/2020-05-03_18_23_02-Amazon.com__Manage_Your_Content_and_Devices.png)
   
 5. Depending on what you output it for, **deDRM** might need a piece of information to decrypt it.
--- <image>
+-- ![image](https://raw.githubusercontent.com/vox-arcana/book2audio/gh-pages/2020-05-03_18_25_34-calibre_-_Preferences_-_Plugins.png)
   
 6. I exported for a Kindle Oasis. So, I put in the serial number from my device as an **EINK Kindle Serial number**
 
